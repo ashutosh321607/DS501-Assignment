@@ -1,0 +1,1 @@
+φ Latitude, λ Longitude (of Map center; move the map to see coordinates): ,  
